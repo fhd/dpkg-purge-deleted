@@ -22,7 +22,7 @@ But today I was fed up with that. Today I created this script.
 Installation
 ------------
 
-[Download the script](https://raw.github.com/fhd/smvn/master/smvn),
+[Download the script](https://raw.github.com/fhd/dpkg-purge-deleted/master/dpkg-purge-deleted),
 put in on root's `$PATH` and make it executable.
 
 Usage
